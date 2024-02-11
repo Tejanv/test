@@ -1,0 +1,8 @@
+pip install streamlit pyPDF2 python-dotenv openai huggingface_hub faiss-cpu langchain
+
+"C:\Users\arunk\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\Scripts\streamlit.exe" run "app.py"
+
+cd C:\Users\arunk\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\Scripts\streamlit.exe run "D:\0 Masters\UpSkill\ML\Chatbot\my files\app.py"
+
+
+C:\Users\arunk\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\Scripts\streamlit.exe run "D:\0 Masters\UpSkill\ML\Chatbot\my files\app.py"
